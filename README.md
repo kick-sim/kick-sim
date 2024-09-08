@@ -35,7 +35,7 @@
     <img src="https://roomy-beak-3ce.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F75accdc4-155a-4719-9036-f9d96201613f%2F5de20479-231e-4316-8c0a-822669975095%2Fimage.png?table=block&id=1b6f34fa-25b7-4a35-99eb-df2775f0652a&spaceId=75accdc4-155a-4719-9036-f9d96201613f&width=2000&userId=&cache=v2" alt="Project 3 Logo" width="100" height="100"/>
   </a>
    <!-- 내가 그린 기린 그림 -->
-  <a href="https://github.com/kick-sim/PaintingSho" target="_blank">
+  <a href="https://github.com/kick-sim/PaintingShop" target="_blank">
     <img src="https://roomy-beak-3ce.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F25287174-796a-4541-8f3e-6bdf673279e4%2FBA96B12F-8978-4C5C-88B2-A67D50B1D23D_1_201_a.jpeg?table=block&id=12bb9854-9960-4458-bcd9-062041e8c7c0&spaceId=75accdc4-155a-4719-9036-f9d96201613f&width=2000&userId=&cache=v2" alt="Project 4 Logo" width="100" height="100"/>
   </a>
 </p>
